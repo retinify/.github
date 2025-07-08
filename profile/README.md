@@ -18,11 +18,11 @@
 [![YouTube](https://img.shields.io/badge/Watch-%40retinify-red?style=flat-square&logo=youtube)](https://www.youtube.com/@retinify_ai)
   
 ## Why retinify?
-retinify is an advanced AI-powered stereo vision library designed for robotics. It enables real-time, high-precision 3D perception by offloading compute-intensive tasks to GPUs and NPUs.
-- 🌐 **Open Source**: Freely available under an open‑source license for full customization.
+retinify is an advanced AI-powered stereo vision library designed for robotics. It enables real-time, high-precision 3D perception by leveraging GPU and NPU acceleration.
+- 🌐 **Open Source**: Fully customizable and freely available under an open-source license.
 - 🔥 **High Precision**: Delivers real-time, accurate 3D mapping and object recognition from stereo image input.
-- 💰 **Cost Efficiency**: Operates solely with cameras—eliminating the need for costly LiDAR or specialized sensors—significantly reducing hardware costs.
-- 🎥 **Works with Any Camera**: Fully compatible with any camera, giving you freedom to design your own system.
+- 💰 **Cost Efficiency**: Runs using only cameras, eliminating the need for expensive LiDAR or other specialized sensors—drastically lowering hardware costs.
+- 🎥 **Camera-Agnostic**: Accepts stereo images from any rectified camera setup, giving you the flexibility to use your own hardware.
 
 ## Contact
 For any inquiries, please feel free to contact us at **[contact@retinify.ai](mailto:contact@retinify.ai)**.  
