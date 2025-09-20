@@ -27,7 +27,7 @@ Retinify is an advanced AI-powered stereo vision library designed for robotics. 
 - 🪶 **Minimal Dependencies**: The pipeline depends only on CUDA Toolkit, cuDNN, and TensorRT, providing a lean and production-grade foundation.
 
 ## Contact
-For commercial inquiries, additional technical support, or any other questions, please feel free to contact us at **[contact@retinify.ai](mailto:contact@retinify.ai)**.  
-
+For support or collaboration, please contact:  
+**[contact@retinify.ai](mailto:contact@retinify.ai)**  
 
 ---
