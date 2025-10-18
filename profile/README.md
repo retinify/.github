@@ -5,8 +5,7 @@
     style="width:100%; display:block;"
   />
 </a>
-
-# Real-Time AI Stereo Vision Library
+  
 [![UBUNTU 24.04](https://img.shields.io/badge/-UBUNTU%2024%2E04-orange?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/noble/)
 [![UBUNTU 22.04](https://img.shields.io/badge/-UBUNTU%2022%2E04-orange?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/jammy/)
 [![JETPACK 6](https://img.shields.io/badge/-JETPACK%206-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://docs.nvidia.com/jetson/jetpack/index.html)
@@ -15,10 +14,13 @@
 [![X](https://img.shields.io/badge/Follow-@retinify-blueviolet?style=flat-square&logo=x)](https://x.com/retinify)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@retinify-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/retinify)
 [![YouTube](https://img.shields.io/badge/Watch-%40retinify-red?style=flat-square&logo=youtube)](https://www.youtube.com/@retinify_ai)
-
-Retinify is an advanced AI-powered stereo vision library designed for robotics. It enables real-time, high-precision 3D perception by leveraging GPU and NPU acceleration.
   
-## Why Retinify?
+# retinify
+>🚀 Real-Time AI Stereo Vision Library
+
+Retinify is an advanced AI-powered stereo vision library designed for robotics. It enables real-time, high-precision 3D perception by leveraging GPU and NPU acceleration.  
+  
+## Why retinify?
 - 🔥 **High Precision**: Delivers real-time, accurate 3D mapping and object recognition from stereo image input.
 - ⚡ **Fast Pipeline**: All necessary computations run seamlessly on the GPU, enabling real-time performance.
 - 🎥 **Camera-Agnostic**: Accepts stereo images from any rectified camera setup, giving you the flexibility to use your own hardware.
