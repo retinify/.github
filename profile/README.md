@@ -9,7 +9,7 @@
 [![UBUNTU 24.04](https://img.shields.io/badge/-UBUNTU%2024%2E04-orange?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/noble/)
 [![UBUNTU 22.04](https://img.shields.io/badge/-UBUNTU%2022%2E04-orange?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/jammy/)
 [![JETPACK 6](https://img.shields.io/badge/-JETPACK%206-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://docs.nvidia.com/jetson/jetpack/index.html)
-[![Release](https://img.shields.io/github/v/release/retinify/retinify?sort=semver&style=flat-square&color=blue&label=Release)](https://github.com/retinify/retinify/releases/latest)
+[![Apache 2.0](https://img.shields.io/badge/Apache_2.0-blue?style=flat-square&logo=apache&label=)](https://www.apache.org/licenses/LICENSE-2.0)
 ![C++](https://img.shields.io/badge/C++-E6B800?style=flat-square&logo=c%2B%2B&logoColor=white)  
 [![X](https://img.shields.io/badge/Follow-@retinify-blueviolet?style=flat-square&logo=x)](https://x.com/retinify)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@retinify-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/retinify)
@@ -28,7 +28,7 @@ Retinify is an advanced AI-powered stereo vision library designed for robotics. 
 - 🌐 **Minimal Dependencies**: The pipeline depends only on CUDA Toolkit, cuDNN, and TensorRT, providing a lean and production-grade foundation.
 
 ## Contact
-For all inquiries, including support, collaboration, and EULA-related matters, please contact:  
+For all inquiries, including support, collaboration, please contact:  
 **[contact@retinify.ai](mailto:contact@retinify.ai)**
   
 ---
