@@ -24,7 +24,7 @@ Retinify is an advanced AI-powered stereo vision library designed for robotics. 
 - 🌐 **Open Source**: Fully transparent and customizable—adapt the pipeline to your workflow.
 - 🔥 **High Precision**: Delivers real-time, accurate 3D mapping and object recognition from stereo image input.
 - ⚡ **Fast Pipeline**: All necessary computations run seamlessly on the GPU, enabling real-time performance.
-- 🎥 **Camera-Agnostic**: Accepts stereo images from any rectified camera setup, giving you the flexibility to use your own hardware.
+- 🎥 **Camera-Agnostic**: Accepts stereo images from any camera setup, giving you the flexibility to use your own hardware.
 - 💰 **Cost Efficiency**: Runs using just cameras, enabling depth perception with minimal hardware cost.
 - 🪶 **Minimal Dependencies**: The pipeline depends only on CUDA Toolkit, cuDNN, and TensorRT, providing a lean and production-grade foundation.
 
